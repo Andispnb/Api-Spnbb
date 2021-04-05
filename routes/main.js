@@ -24,10 +24,10 @@ router.get('/config', (req, res) => {
         status: true,
         result: {
             prefix : '/',
-            namabot: 'DarkBOT',
-            namaowner: 'Anker',
-            instagram: 'anker_2412',
-            youtube : 'Anker Production'
+            namabot: 'SpnbBOT',
+            namaowner: 'Spnb',
+            instagram: 'a.f_.store',
+            youtube : '-'
         }
     }
     res.json(config)
